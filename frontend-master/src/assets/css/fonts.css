@@ -1,0 +1,64 @@
+/* Importing Font-Families from Font Folder */
+
+/* font-family: Abel */
+
+@font-face {
+    font-family: Abel;
+    src: url("../fonts/Abel/Abel-Regular.ttf")
+}
+
+/* font-family: Anton */
+
+@font-face {
+    font-family: Anton;
+    src: url("../fonts/Anton/Anton-Regular.ttf")
+}
+
+/* font-family: Josefin_Sans */
+
+@font-face {
+    font-family: Josefin_Sans;
+    src: url("../fonts/Josefin_Sans/static/JosefinSans-Regular.ttf")
+}
+
+/* font-family: Lexend_Deca */
+
+@font-face {
+    font-family: Lexend_Deca;
+    src: url("../fonts/Lexend_Deca/static/LexendDeca-Regular.ttf")
+}
+
+/* font-family: Livvic */
+
+@font-face {
+    font-family: Livvic;
+    src: url("../fonts/Livvic/Livvic-Regular.ttf")
+}
+
+/* font-family: Roboto */
+
+@font-face {
+    font-family: Roboto;
+    src: url("../fonts/Roboto/Roboto-Regular.ttf")
+}
+
+/* font-family: Raleway */
+
+@font-face {
+    font-family: Raleway;
+    src: url("../fonts/Raleway/static/Raleway-Regular.ttf")
+}
+
+/* font-family: Raleway-Bold */
+
+@font-face {
+    font-family: Raleway-SemiBold;
+    src: url("../fonts/Raleway/static/Raleway-SemiBold.ttf")
+}
+
+/* font-family: Coolvetica */
+
+@font-face {
+    font-family: Coolvetica;
+    src: url("../fonts/coolvetica/coolvetica\ rg.ttf")
+}
